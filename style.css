@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Eater&display=swap');
+
+h3{
+    font-family: 'Eater', cursive;
+    font-size: 40px;
+    color: white;
+    
+    text-align: center;
+    padding: 0.05em;
+}
+
+hr{
+    display: block;
+  margin-top: 0.5em;
+  margin-bottom: 0.5em;
+  margin-left: 25em;
+  margin-right: 25em;
+  border-style: solid;
+  border-width: 4px;
+  color: grey;
+}
+
+h2{
+    font-size: 50px;
+    color: white;
+
+    text-align: center;
+
+}
+
+h1{
+    font-size: larger;
+    color: white;
+ 
+}
+
+.icons{
+    
+    display: flex;
+    align-items: center;
+
+    padding: 0.5em;
+
+    font-size: 2em;
+
+    
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 1em;
+   
+    
+    text-decoration: none;
+
+    position:relative;
+    position:absolute;
+    bottom:0px;
+
+    color: white;
+}
